@@ -36,3 +36,4 @@ docker image with python3, jupyter, tensorflow-gpu, jupyter-tensorboard and more
 
 `./jptf/jptf.sh`
 
+- go to *hostname*.local:8888, token is "seb", can be changed in Dockerfile
