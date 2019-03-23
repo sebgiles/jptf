@@ -1,6 +1,7 @@
 # jptf
 docker image with python3, jupyter, tensorflow-gpu, jupyter-tensorboard and more
 #### Requirements on host:
+- less than 4 GB disk space
 - nvidia drivers (tested on GTX 1050Ti Notebook):
 
 `sudo apt update`
